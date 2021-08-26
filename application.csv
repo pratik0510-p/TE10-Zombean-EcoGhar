@@ -1,5 +1,5 @@
 Year,Total Applications,Rejected Applications
-number,number,number
+string,number,number
 2016,59935,6774
 2017,56164,6693
 2018,54545,6774
